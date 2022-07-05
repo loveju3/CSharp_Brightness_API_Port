@@ -1,0 +1,11 @@
+D:\TestShannonAPI_UI\TestShannonAPI_UI\bin\Debug\TestShannonAPI_UI.exe.config
+D:\TestShannonAPI_UI\TestShannonAPI_UI\bin\Debug\TestShannonAPI_UI.exe
+D:\TestShannonAPI_UI\TestShannonAPI_UI\bin\Debug\TestShannonAPI_UI.pdb
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.csprojAssemblyReference.cache
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.Form1.resources
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.Properties.Resources.resources
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.csproj.GenerateResource.cache
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.csproj.CoreCompileInputs.cache
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.exe
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.pdb
+D:\TestShannonAPI_UI\TestShannonAPI_UI\obj\Debug\TestShannonAPI_UI.csproj.CopyComplete
